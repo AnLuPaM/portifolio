@@ -144,7 +144,7 @@ p {
 .about-img {
     display: block;
     width: 100%;
-    max-width: 350px;
+    max-width: 450px;
     margin:  auto var(--spacing);
     filter: grayscale(100%);
     transition: .5s ease-in-out;
